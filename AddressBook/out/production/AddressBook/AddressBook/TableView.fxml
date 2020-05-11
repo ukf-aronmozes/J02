@@ -72,7 +72,7 @@
         <Button text="Add" onAction="#addStudent"/>
 
         <!--     Extra TODO: Vytvorte button, ktory vybraneho studenta vymaze -->
-        <Button text="Example" onAction="#removeStudent"/>
+        <Button text="DELET e" onAction="#removeStudent"/>
 
     </HBox>
 

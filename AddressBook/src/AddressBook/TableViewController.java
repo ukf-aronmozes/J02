@@ -28,10 +28,4 @@ public class TableViewController {
         ObservableList<Student> data1 = tableView.getItems();
         data1.remove(tableView.getSelectionModel().getSelectedItem());
         }
-
-
-
-
-
-
 }
